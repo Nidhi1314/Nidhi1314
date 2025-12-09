@@ -2,6 +2,11 @@
 
 🎓 Computer Science student | 🌐 MERN Stack Developer | 💡 Interested in DevOps & ML
 
+## 🏆 Certification
+<a href="https://badgr.com/public/assertions/CsAzd0n6SH-BrCV7CErvMg" target="_blank">
+  <img src="https://api.badgr.io/public/assertions/CsAzd0n6SH-BrCV7CErvMg/image" height="140" alt="Postman Certified"/>
+</a>
+
 ## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -24,19 +29,16 @@
 
 
 
-
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhi1314&show_icons=true&theme=radical&hide=c,cpp&include_all_commits=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi1314&layout=compact&theme=radical&hide=c,cpp&cache_seconds=1800)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nidhi1314&theme=radical)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nidhi1314&theme=radical" alt="stats-card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nidhi1314&theme=radical" alt="productive-time" />
+</div>
 
 ## 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhishekhawat)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhishekhawat945@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhishekhawat) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhishekhawat945@gmail.com)
 
 
 
